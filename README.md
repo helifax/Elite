@@ -1,4 +1,14 @@
-# Elite
+# Elite-Enhanced
+This is a fork of the original Elite Repository.
+I wanted to play with the Trigger Vibrations (since not a lot of games actually use them) I created this fork.
+Trigger vibrations USE the settings set by the Xbox Accessories Application. I also added a toggle to disable this override.
+Added a couple of icons as well.
+Plan is to make a Release as well so people don't have to build all this things but you can still do it.
+Copyright is to the companies responsible for the applications, libraries etc and in no way I claim otherwise.
+
+# ORIGINAL README AS FOLLOWS:
+
+## Elite
 
 This is a hacky workaround for mapping the Elite Controller paddles to keys. This should help when using tools like Auto Hotkey or simply avoiding the "quick save reach". To read about my experience creating the app, [visit my blog](http://shawnquereshi.com/2016/02/binding-the-elite-controller-paddles-to-the-keyboard/).
 
